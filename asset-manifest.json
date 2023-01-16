@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45fc8cb7.css",
+    "main.js": "/static/js/main.27b8db8e.js",
+    "static/media/Bradon_Siegle_Resume.pdf": "/static/media/Bradon_Siegle_Resume.8ed1e6822a41037b5fcd.pdf",
+    "static/media/brush.png": "/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/index.html",
+    "main.45fc8cb7.css.map": "/static/css/main.45fc8cb7.css.map",
+    "main.27b8db8e.js.map": "/static/js/main.27b8db8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45fc8cb7.css",
+    "static/js/main.27b8db8e.js"
+  ]
+}
